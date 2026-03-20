@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": 75000,
+    "specs": {
+      "brand": "Samsung",
+      "warranty_years": 1
+    }
+  },
+  {
+    "name": "Men Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 1200,
+    "attributes": {
+      "sizes": ["S", "M", "L"],
+      "material": "Cotton"
+    }
+  },
+  {
+    "name": "Organic Milk",
+    "category": "Groceries",
+    "price": 60,
+    "details": {
+      "expiry_date": "2024-12-30"
+    }
+  }
+]
