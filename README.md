@@ -1,12 +1,16 @@
 # Assignment 01 - Data Engineering
 
-This repository contains all parts of the assignment:
+This repository contains solutions for database design, SQL queries, ETL processes, and data architecture.
 
-- Part 1: RDBMS Design
-- Part 2: NoSQL (MongoDB)
-- Part 3: Data Warehouse
-- Part 4: Vector Database
-- Part 5: Data Lake (DuckDB)
-- Part 6: Capstone Architecture
+## Contents
+- OLTP Schema Design (3NF)
+- SQL Queries
+- Data Warehouse (Star Schema)
+- DuckDB Queries on CSV/JSON/Parquet
+- ETL Decisions
+- Architecture Design (Healthcare System)
+- Vector Database Use Case
+- Design Justification
 
-Each folder contains relevant scripts, queries, and documentation.
+## Architecture
+Refer to architecture_diagram.png
