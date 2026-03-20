@@ -1,0 +1,3 @@
+## Vector DB Use Case
+
+Keyword search fails when different wording is used to describe the same concept. Vector databases store embeddings representing semantic meaning. When a lawyer asks a natural language question, the query is converted into an embedding and compared to stored vectors of contract sections. The system retrieves semantically similar passages even if keywords differ. This enables accurate search across long documents like contracts.
