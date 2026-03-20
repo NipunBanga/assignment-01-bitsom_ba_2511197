@@ -1,4 +1,4 @@
-# Assignment 02 - Data Engineering
+# Assignment 01 - Data Engineering
 
 This repository contains all parts of the assignment:
 
